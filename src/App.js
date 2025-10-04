@@ -128,7 +128,7 @@ const PLPTrendCalculator = () => {
       <div className="bg-white rounded-lg p-6 mb-6 shadow-md">
         <div className="flex items-center justify-between mb-6">
           <div>
-            <h1 className="text-3xl font-bold text-gray-800 mb-2">PLP Trend Score Calculator</h1>
+            <h1 className="text-3xl font-bold text-gray-800 mb-2">Trend Score Calculator</h1>
             <p className="text-gray-600">Enter assessment scores to see how trend predictions work</p>
           </div>
           <div className="flex items-center gap-4">
